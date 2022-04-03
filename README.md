@@ -1,7 +1,8 @@
 # VR_project
  Solar system VR simulation app
  
- # This repo has a video on its readme :p
 
-https://github.com/rania-benaissa/VR_project/demo/demo.mp4
-# This repo has a video on its readme :p
+
+
+https://user-images.githubusercontent.com/61916174/161421167-4cdb4ee6-3b4e-4371-aa6a-477c840dc549.mp4
+
